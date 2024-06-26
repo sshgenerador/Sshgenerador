@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\E[44;1;37m     INSTALACION DE AUTO BOT +APK BY GATESCCN     \E[0m"
+echo -e "\E[44;1;37m     INSTALACION DE AUTO BOT +APK BY ModsRdrZzAnthoSv     \E[0m"
 echo -e "\nINSTALANDO ESPERE...."
 apt update -y > /dev/null 2>&1 && apt install unzip at jq curl -y > /dev/null 2>&1
 mkdir $HOME/BOT
